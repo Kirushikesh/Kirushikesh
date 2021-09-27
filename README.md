@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Kirushikesh DB currently persuing my 4th year M.Sc Theoretical Computer Science at PSG College of Technology. My only aim was to contribute to my mother land by creating new plants from my knowledge seeds. My moto was "Katrathu Kai Mann Alavu, Kallathathu Ulagalavu". I am always a person of self motivating and enriching my self. Got interest into Data science World by getting thrilled of seeing a lecture where tensorflow developer ask me you know what are shoes and how they look like, now how do you make a machine to understand this? this question changed my life. The only thing I understood in my life is you must try hard to grab your oppurtunity it will now come and ask you whether you need me. Good Luck!
+
 
 
 <!--
