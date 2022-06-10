@@ -1,7 +1,6 @@
 # Hi there 👋
 
-I'm Kirushikesh DB currently pursuing my 4th-year M.Sc Theoretical Computer Science at PSG College of Technology. My only aim was to contribute my knowledge to my motherland's development. My moto was "Katrathu Kai Mann Alavu, Kallathathu Ulagalavu". My dream job was getting into DRDO. I am always a person of self-motivating and enriching myself. Got interested in Data science World by getting thrilled of seeing a lecture where a TensorFlow developer ask me you know what are shoes and how they look like, now how do you make a machine to understand this? this question changed my life. The only thing I understood in my life is you must try hard to grab your opportunity it will now come and ask you whether you need me. Good Luck!
-
+I'm Kirushikesh DB currently pursuing my 4th-year M.Sc Theoretical Computer Science at PSG College of Technology. Constantly improving my skills on Machine Learning, Deep Learning and NLP. Doing my intern in IBM Research Labs as AI Research intern. 
 
 
 <!--
