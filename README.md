@@ -47,7 +47,7 @@ Motivated by an insatiable thirst for knowledge, I engage in extensive reading o
 
 <br/>
 
-- 🔭 I’m currently working on applying RAG on industries properitory data for data analysis
+- 🔭 I’m currently working on applying RAG on Industries proprietary data for Data Analysis
 - 🌱 I’m currently learning about Robotics
 - 📝 My most favorite book is [Natural Language Processing With Transformers: Building Language Applications With Hugging Face](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
 - 👯 I’m looking to collaborate on projects
@@ -55,7 +55,7 @@ Motivated by an insatiable thirst for knowledge, I engage in extensive reading o
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/kirushikeshdb/) • [Kaggle](https://www.kaggle.com/krooz0) • [Youtube]() • [Medium](https://medium.com/@techwithkrooz)
 - 😄 I actively post latest innovations on my LinkedIn
 - 📕 My favorite newsletter is [The BATCH](https://www.deeplearning.ai/the-batch/)
-- ⚡ Fun fact: I am a Khaled Hosseini Fan, completed **Kite Runner** and now reading **A Thousand Splendid Suns**.
+- ⚡ Fun fact: I am a Khaled Hosseini Fan, completed **Kite Runner** and now reading **A Thousand Splendid Suns**
 
 <br/>
 
